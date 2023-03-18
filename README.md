@@ -1,0 +1,2 @@
+# LifeCounter
+Windowsタブレット用のライフカウンター
